@@ -18,6 +18,9 @@ labels:
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 <br /><img class="ui medium left floated image" src="../images/deep.jpg">
 
   Seeing what can be done with Javascript and software engineering is likely a trip down the rabbit hole, not to say that it would be hard or crazy. You could probe out the dark depths of Javascript to see what can be done, looking at apps or websites built with Javascript or how many things were built with it. However, understanding how it works might be impossible when you are starting to learn something that might have a lot of utility or is complex, like different programming languages. Once you learn the things within those depths, it can stick with you for a while. 
