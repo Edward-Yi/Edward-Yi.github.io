@@ -11,4 +11,6 @@ labels:
 summary: A presentation that explains the basics of computer storage and how DNA can be used for that storage.
 ---
 
-This is a basic presentation on DNA being used for computer memory storage. It does not contain in depth detail and has some speculation for future usage, due to it being used in a Botany class and not a more technically involved course. It helps to bridge the gap between sciences that do not seem like they can relate at all.
+It is a basic explanation of how a computer would translate DNA into memory and how far we are with this technology. It also goes over possibilities with botany and ideas of what could happen in the future.
+
+The presentation is here: https://github.com/Edward-Yi/Edward-Yi.github.io/blob/master/projects/DNA%20and%20Computer%20Storage.pptx
