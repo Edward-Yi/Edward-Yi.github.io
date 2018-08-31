@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Professional portfolios gave me a different view on employment
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2018-08-30
 labels:
   - Professional Portfolio
 ---
