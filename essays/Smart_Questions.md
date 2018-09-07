@@ -67,4 +67,4 @@ public static void MakeTheNumbersMatch(int a, int b, int x, int y)
     }
 I am having a hard time finding the bug. Can someone help?
 ```
-The person that requested help sounds like he is demanding help when he initially says "find the bug", after his explanation of what the code should do. It also feels like there was no effort to debug the program, looking over the code without going over what it is doing, step by step.
+The person that requested help sounds like he is demanding help when he initially says "find the bug", after his explanation of what the code should do. It also feels like there was no effort to debug the program, looking over the code without going over what it is doing. This could also be one of those times a newer programmer could ask for some hints on how to tackle this problem, where to look, or what to do when encountering these bugs.  
