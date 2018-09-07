@@ -15,4 +15,4 @@ summary: A sticker game I developed for ICS 111.
 
 This project is to use a class called ez for my project and I have to create sticker game with sounds and images. The sound has to play when pressing on the sticker and also play a sound when you place the sticker on the designated area, designated area is at the programmer's discretion. The sticker cannot be placed outside of that area and when pressing a different sticker, that sticker's sound has to play and it needs to switch to that sticker.
 
-Source: <a href="https://www.youtube.com/watch?v=QWPkjJXZYU0"></i>My Video</a>
+Source: [My video](https://www.youtube.com/watch?v=QWPkjJXZYU0)
