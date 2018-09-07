@@ -11,11 +11,11 @@ labels:
 
 ## What do I mean?
 
-To better explain this, you have a challenge with two bowls of food, one is filled with a lot of food and the other does not have much but is extremely spicy. My answer would be to go for the less spicy food because it will not be as painful finishing it than the extremely spicy food. This is where how experts on a field like to think, they want a challenge that will make them think, possibly learning something new, and race to answer a difficult question that has suddenly presented itself. Compare this with asking a vague and short question where these experts would have to ask some questions and pull whatever answers they can out of you.
+To better explain this, you have a challenge with two bowls of food, one is filled with a lot of food and the other does not have much but is extremely spicy. My answer would be to go for the less spicy food because it will not be as painful finishing it than the extremely spicy food. This is how experts on a field might think, they want a challenge that will make them think, possibly learning something new, and race to answer a difficult question that has suddenly presented itself. Compare this with asking a vague and short question where these experts would have to ask some questions and pull whatever answers they can out of you.
 
 ## Do I have to give them a challenge?
 
-Not really, you may want to take a break from a challenge or do some light workouts by looking over some simple problems. Its like giving help to a new person at the gym before the big heavyweight goes to do his own thing, giving an easy to answer problem before doing their own challenge. Lets be honest you are not going to be lifting 100 pounds if you have never done any heavy lifting in your life. If we take this analogy in mind, it is the same concept, you get stuck trying to do something and you need help to fix a mistake or do it optimally.
+Not really, you may want to take a break from a challenge or do some light workouts by looking over some simple problems. Its like giving help to a new person at the gym before the big heavyweight goes to do his own thing, giving an easy to answer problem before doing their own challenge. Lets be honest you are not going to be lifting 100 pounds if you have never done any heavy lifting in your life. If we take this analogy in mind, it is the same concept, you get help if you want to be able get closer to that level.
 
 ## Examples of a smart way and a not smart way
 
