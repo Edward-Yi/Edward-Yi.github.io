@@ -17,7 +17,7 @@ To better explain this, you have a challenge with two bowls of food, one is fill
 
 Not really, you may want to take a break from a challenge or do some light workouts by looking over some simple problems. Its like giving help to a new person at the gym before the big heavyweight goes to do his own thing, giving an easy to answer problem before doing their own challenge. Lets be honest you are not going to be lifting 100 pounds if you have never done any heavy lifting in your life. If we take this analogy in mind, it is the same concept, you get stuck trying to do something and you need help to fix a mistake or do it optimally.
 
-## Examples of some smart way and not smart way
+## Examples of a smart way and a not smart way
 
 ```
 Q: Yarn: Procedure for redeploying JavaScript dependencies to Production Server (usage of `yarn.lock` file)
