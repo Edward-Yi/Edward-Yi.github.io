@@ -21,4 +21,4 @@ Because this was an individual research project, I had to do all of the research
 
 The first thing I learned is that ideas anybody could have may not be as absurd because I initially thought that DNA and computer memory could have similarities but it may be in the realm of science fiction. Looking deeper into it, I found out that this was something that has been researched and developed as DNA technology has been advancing and getting cheaper. The other thing I learned was how absurd things can be more absurd than you initially thought because I came across a link about people making processors using DNA. This was something that I did not think was being done until I happened to find it during my research. 
 
-The presentation is here: <a href="https://github.com/Edward-Yi/Edward-Yi.github.io/blob/master/projects/DNA%20and%20Computer%20Storage.pptx"></i>Powerpoint download</a>
+The presentation is here: [Powerpoint download](https://github.com/Edward-Yi/Edward-Yi.github.io/blob/master/projects/DNA%20and%20Computer%20Storage.pptx)
