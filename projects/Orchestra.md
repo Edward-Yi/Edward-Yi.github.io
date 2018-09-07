@@ -18,4 +18,4 @@ My contributions is practicing the music in the orchestra and making sure that I
 
 The main things I got out of playing with the orchestra is how to persevere, how much of a difference practice makes, and how to work with and around a group. The focus of how to work with and around a group, in this setting, is how to practice individually and thinking about how I can contribute to the group. Sometimes, I did not want to practice or attend the sectionals/rehearsals, however, I dragged my body to these and went through with it when I could be at home. Before thinking about how practice can keep a person's skill sharp, I thought that practice was to reach greater heights and the skills that you received from practicing would stick but this experience changed my entire mind about this idea.
 
-One of the concerts I was in: <a href="https://www.youtube.com/watch?v=mhQh7CB0VsY"></i>Video</a>
+One of the concerts I was in: [Video](https://www.youtube.com/watch?v=mhQh7CB0VsY)
