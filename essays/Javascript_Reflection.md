@@ -8,19 +8,14 @@ labels:
   - Javascript
 ---
 
-<img class="ui medium left floated image" src="../images/Lake.jpg">
-
-  When you first dip your toe into anything, two thoughts might come to mind, there is a lot in this subject or there does not seem to be much going on. There does not seem to be much going on may be true when starting Javascript, in comparison to Java or C++. One of the biggest contributors is the amount of variable names needed to call numerical variables and strings. Where Java and C++ seperates numerical and string variables, even going as far as having variable names for decimals, Javascript has you using one or two for all of them.
+<img class="ui tiny left circular floated image" src="../images/Shallow.jpg">
+## Starting out ...
+I don't want to be thrown into a the deep end of a pool and be told to swim, when I don't know how to swim. This is what learning anything new comes down to. On my first look into Javascript, I found it shallow because all the methods, arrays, etc. could be put into varibles with basic methods like let or const. The first impression made me feel like I was put back into elementary school, learning that words are words, whether they are in a list or seperate.
   
-<img class="ui medium left floated image" src="../images/Shallow.jpg">
   
-  Even with these thoughts, caution is key because you have to learn how to swim in shallow water before you can take the plunge into the depths. The basics is the foundation and starting off with two variable names and how to call functions in Javascript is the start before introducing loops and if, else if, and else statements. Even a call to the console to see output if the codes between the output creates the intended result or if numbers and words are off.
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br /><img class="ui medium left floated image" src="../images/deep.jpg">
-
-  Seeing what can be done with Javascript and software engineering is likely a trip down the rabbit hole, not to say that it would be hard or crazy. You could probe out the dark depths of Javascript to see what can be done, looking at apps or websites built with Javascript or how many things were built with it. However, understanding how it works might be impossible when you are starting to learn something that might have a lot of utility or is complex, like different programming languages. Once you learn the things within those depths, it can stick with you for a while. 
+# What changed?
+My basic mindset is to be reserved and try to look at it from another viewpoint, perspective, or try to dig into and see if its just a small deposit or a big cave filled with minerals. Pushing forward, with the idea that there has to be more to this language, I find out that functions can be defined in other functions.  This is like not knowing why, when, or how a musician can play a song this way but you understand that there has to be a reason behind it.
+  
+<img class="ui tiny left circular floated image" src="../images/deep.jpg">
+## Can we go deeper?
+Seeing something that could be deep is not the same as understanding how deep it is or other things that could be hiding under the surface. An unknown creature in the proverbial lake can cause two reactions fear or curiosity. Wanting to understand the creature that surfaced from the depths or being afraid of what else could be hiding within the abyss. Just a glimpse of the right thing could be the push needed to see what else could be under the surface.
