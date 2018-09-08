@@ -11,9 +11,7 @@ labels:
 summary: A presentation that explains the basics of computer storage and how DNA can be used for that storage.
 ---
 
-<div class="ui small rounded images">
 <img class="ui image" src="../images/storage.jpg">
-</div>
 
 This is an individual research presentation for my botany class. Because my peers and teachers in the class may not know about how our computers would store the data, I had to go over that as a starting point. It would then relate this given knowledge and connect it to DNA before going over how this would relate to botany. The relationship with botany has a brief mention of a code implanted and was perfectly replicated from parent to child and the possibilities that this could possess. It also goes over other reasons that plants could be used in this field and ideas that may or may not come to fruition in the futrure.
 
