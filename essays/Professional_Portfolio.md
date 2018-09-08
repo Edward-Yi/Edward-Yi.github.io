@@ -8,14 +8,13 @@ labels:
   - Professional Portfolio
 ---
 
-<img class="ui medium left floated image" src="../images/Profile.png">
-
-  I did think that resumes were one of the only ways that you could use to tell an employer what sort of experience you have in comparison to what another person might present. Professional portfolios actually seem like a resume but online and open for potential employers to look at and gain an understanding of your personality, at least your online persona. Knowing the online personality of a person does not mean that they may be exempt from an interview or possible scrutiny of contributions to a project or the works done. This did not shake up my entire view of employment but it does create a wider scope of what can be done to make employment easier.
+<img class="ui small left floated image" src="../images/Profile.png">
+## What do you mean?
+Resumes are the most relevant thing you use to appeal to your employers about why they should be hiring you. Some employers also like to poke around at what sort of person you are on social media accounts and any other forums that you have taken part in. What would the best thing they see be? Professional portfolios that are open and ready to be viewed by those employers that you would be aiming at, maybe even slipping it into the resume or paperwork. It is also an alternative to show your employers a resume that includes more details on where you have worked and how you contrinuted.
   
-  <img class="ui medium left floated image" src="../images/Remember.jpg">
-  
-  I already knew that employers might look at things like social media accounts to get a better understanding of that person but professional portfolios that can make an easy call back never crossed my mind. When I really think about it, you could get credit for the projects done but it is easier to link to all of them and make it easier on any employer to look at the project and figure what sort of contributions you made. Having source code for personal projects or open source projects might give an edge to how competent that person may be or how much passion they might have for the field that they are working for. It shows how the internet has advanced even further than what people may think, going past doing things using a site to make your own website.
+<img class="ui small left floated image" src="../images/Remember.jpg">
+## Why keep this in mind?
+You never know when or if an employer will one day say, "I want to look at how my employee acts online." Problems can and will occur when they see how your online, professional, personality differs from the attitude you have at the workplace. This is where you need to keep low and careful with an alias for the more private, and legal, ventures. You always have to behave like a child that could be caught for doing something that they are not supposed to.
 
-  The main things done with these professional profiles is that they would be like a more eye pleasing version of a resume. It would be like going through a person's facebook, specific information for the employer can be seen and it may contain more information than the resume given to the employer. This could show, not only what university you studied at but it can also show previous workplaces, experience, and projects. These portfolios may even be used in a social manner like in this website, showing things like previous comments and questions.
-
-
+## Conclusion
+Knowing that an employer can look at your social media accounts was something that I understood as a possibility but creating a professional portfolio was something I did not know about. I also understood that being in a forum without an alias can both be dentrimental and helpful because the wrong words be harmful. It is helpful in the case of showing understanding, beliefs, and how social or helpful you are to other people in a public domain. Learning about professional portfolios has allowed me to gain a deeper understanding of what else I can do to appeal to them. 
