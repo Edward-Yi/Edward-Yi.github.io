@@ -58,6 +58,7 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+      "Windows"
       ]
     }
   ],
@@ -70,6 +71,9 @@
       "endDate": "2019-07-05",
       "gpa": "",
       "courses": [
+      "Java"
+      "C"
+      "C++"
       ]
     }
   ],
