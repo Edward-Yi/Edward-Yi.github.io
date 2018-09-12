@@ -71,8 +71,8 @@
       "endDate": "2019-07-05",
       "gpa": "",
       "courses": [
-      "Java"
-      "C"
+      "Java",
+      "C",
       "C++"
       ]
     }
