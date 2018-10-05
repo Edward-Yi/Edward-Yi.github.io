@@ -6,6 +6,8 @@ title: Easier does not mean easy
 date: 2018-10-04
 labels:
   - Semantic UI
+  - HTML
+  - CSS
 ---
 
 ## Does it make sense?
