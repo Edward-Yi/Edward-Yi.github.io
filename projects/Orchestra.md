@@ -10,7 +10,7 @@ labels:
   - Concert
 summary: My time spent in the McKinley High School orchestra.
 ---
-<img class="ui image" src="{{ site.baseurl }}/images/Auditorium.jpg">
+<img class="ui image" src="../images/Auditorium.jpg">
 
 During my four years attending President William McKinley High School, I was in their orchestra class. Orchestras are typically divided into five sections, cello, bass, violin, second violin, and viola, and I played in the second violin section.. The main requirements for this class was practice and playing in the concerts that are held in the high school's auditorium or other venues. During class, we would practice together in a room in a building or on stage, in the auditorium, to prepare for all the upcoming concerts.
 
