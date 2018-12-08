@@ -31,11 +31,7 @@
     {
       "name": "Programming",
       "keywords": [
-      ]
-    },
-    {
-      "name": "Security",
-      "keywords": [
+        Java, C, C++, Javascript
       ]
     },
     {
@@ -51,7 +47,10 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "Javascript",
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -76,11 +75,5 @@
       "C++"
       ]
     }
-  ],
-  "work": [
-  ],
-  "volunteer": [
-  ],
-  "awards": [
   ]
 }
